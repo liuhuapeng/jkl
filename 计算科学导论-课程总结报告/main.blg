@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: references.bib
+I was expecting an "="---line 12 of file references.bib
+ : author 
+ :        Address={运城学院公共计算机教学部},
+I'm skipping whatever remains of this entry
+Warning--empty year in he5
+Warning--empty journal in he2
+Warning--empty year in he2
+Warning--empty publisher in he1
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            524 strings with 4389 characters,
+and the built_in function-call counts, 1236 in all, are:
+= -- 111
+> -- 41
+< -- 0
++ -- 18
+- -- 12
+* -- 76
+:= -- 218
+add.period$ -- 14
+call.type$ -- 5
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 56
+empty$ -- 113
+format.name$ -- 12
+if$ -- 252
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 7
+newline$ -- 27
+num.names$ -- 10
+pop$ -- 32
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 59
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 4
+while$ -- 12
+width$ -- 6
+write$ -- 49
+(There was 1 error message)
